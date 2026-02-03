@@ -1,0 +1,212 @@
+[
+    {
+        "title": "OpenAI Unveils GPT-5: A New Era of Artificial General Intelligence",
+        "excerpt": "OpenAI has officially announced GPT-5, their most advanced AI model yet with revolutionary reasoning capabilities.",
+        "category": "ai",
+        "tag": "AI & Data",
+        "readTime": "5 min",
+        "timestamp": "2025-12-28T14:22:33",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/openai-gpt-5-new-era-of-artificial-general-intelligence"
+    },
+    {
+        "title": "NASA Confirms Discovery of Organic Molecules on Europa",
+        "excerpt": "Latest data reveals complex organic molecules in Europa's subsurface ocean, suggesting potential for life.",
+        "category": "science",
+        "tag": "Science",
+        "readTime": "7 min",
+        "timestamp": "2025-02-02T09:17:45",
+        "image": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/nasa-organic-molecules-europa-discovery"
+    },
+    {
+        "title": "Quantum Supremacy Achieved: IBM's 1000-Qubit Processor",
+        "excerpt": "IBM announces breakthrough quantum processor solving complex problems previously impossible for classical computers.",
+        "category": "technology",
+        "tag": "Technology",
+        "readTime": "9 min",
+        "timestamp": "2025-03-12T16:45:12",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/quantum-supremacy-ibm-1000-qubit-processor"
+    },
+    {
+        "title": "Major Cybersecurity Breach Affects 30 Million User Accounts",
+        "excerpt": "Zero-day vulnerability exposes sensitive data across multiple tech companies, prompting emergency security patches.",
+        "category": "cyber",
+        "tag": "Cyber World",
+        "readTime": "4 min",
+        "timestamp": "2025-04-22T11:30:00",
+        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/major-cybersecurity-breach-30-million-accounts"
+    },
+    {
+        "title": "Humanoid Robots Revolutionize Manufacturing Industry",
+        "excerpt": "Boston Dynamics and Tesla showcase humanoid robots performing complex assembly tasks with unprecedented precision.",
+        "category": "future",
+        "tag": "Future Tech",
+        "readTime": "6 min",
+        "timestamp": "2025-05-03T08:12:55",
+        "image": "https://images.unsplash.com/photo-1485827404703-489689fd1ca8?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/humanoid-robots-revolutionize-manufacturing"
+    },
+    {
+        "title": "Fusion Energy Milestone: 30 Seconds of Sustained Reaction",
+        "excerpt": "ITER project achieves longest sustained fusion reaction to date, bringing clean energy closer to reality.",
+        "category": "science",
+        "tag": "Science",
+        "readTime": "8 min",
+        "timestamp": "2025-06-14T19:05:33",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/fusion-energy-milestone-30-seconds-sustained-reaction"
+    },
+    {
+        "title": "Apple AR Glasses Enter Production Phase",
+        "excerpt": "Apple's long-rumored AR glasses reportedly entering mass production with advanced spatial computing features.",
+        "category": "technology",
+        "tag": "Technology",
+        "readTime": "5 min",
+        "timestamp": "2025-07-27T13:40:21",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/apple-ar-glasses-production-phase"
+    },
+    {
+        "title": "AI Models Accurately Predict Extreme Weather Events",
+        "excerpt": "New machine learning algorithms can predict hurricanes and floods with 94% accuracy weeks in advance.",
+        "category": "ai",
+        "tag": "AI & Data",
+        "readTime": "7 min",
+        "timestamp": "2025-08-05T07:55:18",
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-models-predict-extreme-weather-events"
+    },
+    {
+        "title": "CRISPR 3.0 Eliminates Genetic Diseases in Primates",
+        "excerpt": "New CRISPR variant achieves 99.7% accuracy in gene editing, successfully curing Huntington's disease.",
+        "category": "science",
+        "tag": "Science",
+        "readTime": "7 min",
+        "timestamp": "2025-09-12T22:10:44",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/crispr-3-0-eliminates-genetic-diseases-primates"
+    },
+    {
+        "title": "Google Gemini Ultra Outperforms GPT-4 in Reasoning Tests",
+        "excerpt": "Google's latest AI model achieves 92% on MMLU benchmark, setting new standard for AI reasoning capabilities.",
+        "category": "ai",
+        "tag": "AI & Data",
+        "readTime": "6 min",
+        "timestamp": "2025-10-03T15:33:27",
+        "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/google-gemini-ultra-outperforms-gpt-4"
+    },
+    {
+        "title": "Major Ransomware Attack Cripples Hospital Networks Worldwide",
+        "excerpt": "Coordinated attack targets healthcare systems, demanding $50 million in cryptocurrency for decryption keys.",
+        "category": "cyber",
+        "tag": "Cyber World",
+        "readTime": "4 min",
+        "timestamp": "2025-11-11T04:18:09",
+        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ransomware-attack-cripples-hospital-networks"
+    },
+    {
+        "title": "First Commercial Space Hotel Announces 2026 Opening",
+        "excerpt": "Orbital Assembly Corporation reveals plans for luxury space hotel with artificial gravity and Earth views.",
+        "category": "future",
+        "tag": "Future Tech",
+        "readTime": "8 min",
+        "timestamp": "2025-12-19T12:00:00",
+        "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/first-commercial-space-hotel-2026-opening"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold 6: The Ultimate Productivity Device",
+        "excerpt": "After two weeks of testing, we determine if the latest foldable justifies its $1,800 price tag.",
+        "category": "explanations",
+        "tag": "Explanations",
+        "readTime": "9 min",
+        "timestamp": "2026-01-07T10:25:36",
+        "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/samsung-galaxy-z-fold-6-review"
+    },
+    {
+        "title": "Webb Telescope Finds Water on Rocky Exoplanet",
+        "excerpt": "K2-18b shows signs of liquid water oceans and carbon-bearing molecules, suggesting habitable conditions.",
+        "category": "science",
+        "tag": "Science",
+        "readTime": "5 min",
+        "timestamp": "2026-01-18T17:42:51",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/webb-telescope-finds-water-rocky-exoplanet"
+    },
+    {
+        "title": "AI Detects Early-Stage Cancer with 98% Accuracy",
+        "excerpt": "New deep learning model analyzes medical scans to detect cancer months before traditional methods.",
+        "category": "ai",
+        "tag": "AI & Data",
+        "readTime": "5 min",
+        "timestamp": "2025-01-30T06:14:22",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-detects-early-stage-cancer-98-accuracy"
+    },
+    {
+        "title": "Room-Temperature Superconductivity Confirmed",
+        "excerpt": "MIT team replicates results using new carbonaceous sulfur hydride material, revolutionizing energy transmission.",
+        "category": "science",
+        "tag": "Science",
+        "readTime": "8 min",
+        "timestamp": "2025-02-02T13:29:55",
+        "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/room-temperature-superconductivity-confirmed"
+    },
+    {
+        "title": "New Zero-Day Vulnerability in Chrome Affects 2 Billion Users",
+        "excerpt": "Critical security flaw allows remote code execution, patch released urgently by Google security team.",
+        "category": "cyber",
+        "tag": "Cyber World",
+        "readTime": "3 min",
+        "timestamp": "2026-01-25T02:37:49",
+        "image": "https://images.unsplash.com/photo-1526378553286-757e3ac7b688?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/zero-day-vulnerability-chrome-2-billion-users"
+    },
+    {
+        "title": "Neuralink Implant Allows Paralysed Patient to Control Computer",
+        "excerpt": "Breakthrough brain-computer interface enables thought-controlled typing at 90 words per minute.",
+        "category": "future",
+        "tag": "Future Tech",
+        "readTime": "7 min",
+        "timestamp": "2025-08-22T11:09:33",
+        "image": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/neuralink-implant-paralysed-patient-control-computer"
+    },
+    {
+        "title": "Microsoft Copilot Pro: Is It Worth $20/Month?",
+        "excerpt": "Comprehensive Explanation of Microsoft's AI assistant across Word, Excel, PowerPoint, and Outlook.",
+        "category": "explanations",
+        "tag": "Explanations",
+        "readTime": "6 min",
+        "timestamp": "2025-05-14T14:28:57",
+        "image": "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/microsoft-copilot-pro-review-worth-20-dollars-month"
+    },
+     {
+        "title": "MMicrosoft Copilot Pro: Is It Worth $20/Month?",
+        "excerpt": "Comprehensive Explanation of Microsoft's AI assistant acrodss Word, Excel, PowerPoint, and Outlook.",
+        "category": "explanations",
+        "tag": "Explanations",
+        "readTime": "6 min",
+        "timestamp": "2025-05-14T14:28:57",
+        "image": "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/microsoft-copilot-pro-revixdew-worth-20-dollars-month"
+    },
+    {
+        "title": "Flying Cars Receive FAA Certification for Urban Air Mobility",
+        "excerpt": "First electric vertical takeoff and landing vehicles approved for commercial operations in major cities.",
+        "category": "future",
+        "tag": "Future Tech",
+        "readTime": "5 min",
+        "timestamp": "2026-02-01T09:45:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/flying-cars-faa-certification-urban-air-mobility"
+    }
+] 
