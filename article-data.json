@@ -1,0 +1,612 @@
+[
+    {
+        "title": "The Innovation Paradox: Why Some Companies Succeed While Others Fail",
+        "excerpt": "Analyzing the key factors that separate successful innovators from those stuck in incremental improvements.",
+        "category": "Innovation",
+        "tag": "Innovation",
+        "readTime": "12 min",
+        "timestamp": "2024-02-18T14:30:00",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/innovation-paradox-why-some-companies-succeed-others-fail"
+    },
+    {
+        "title": "Cross-Industry Innovation: Borrowing Ideas from Unexpected Places",
+        "excerpt": "How solving problems in one industry can revolutionize solutions in completely different fields.",
+        "category": "Innovation",
+        "tag": "Innovation",
+        "readTime": "9 min",
+        "timestamp": "2024-06-12T11:45:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/cross-industry-innovation-borrowing-ideas-unexpected-places"
+    },
+    {
+        "title": "The Democratization of Tech: Tools That Put Advanced Technology in Everyone's Hands",
+        "excerpt": "How no-code platforms, affordable hardware, and open-source software are leveling the playing field.",
+        "category": "Tech",
+        "tag": "Tech",
+        "readTime": "11 min",
+        "timestamp": "2024-03-22T10:15:00",
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/democratization-tech-tools-put-advanced-technology-everyones-hands"
+    },
+    {
+        "title": "Tech Ethics: Navigating the Moral Challenges of Rapid Technological Advancement",
+        "excerpt": "Balancing innovation with responsibility in AI, surveillance, automation, and data privacy.",
+        "category": "Tech",
+        "tag": "Tech",
+        "readTime": "14 min",
+        "timestamp": "2024-08-07T16:20:00",
+        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/tech-ethics-navigating-moral-challenges-rapid-technological-advancement"
+    },
+    {
+        "title": "Micro-Trends vs Macro-Trends: Which Technological Shifts Really Matter",
+        "excerpt": "Differentiating between temporary fads and transformative movements that reshape industries.",
+        "category": "Trends",
+        "tag": "Trends",
+        "readTime": "8 min",
+        "timestamp": "2024-04-05T13:40:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/micro-trends-vs-macro-trends-which-technological-shifts-really-matter"
+    },
+    {
+        "title": "Predicting Tech Trends: The Data Science Behind Forecasting What's Next",
+        "excerpt": "How analysts use patent filings, funding patterns, and academic research to spot emerging trends.",
+        "category": "Trends",
+        "tag": "Trends",
+        "readTime": "10 min",
+        "timestamp": "2024-09-14T09:30:00",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/predicting-tech-trends-data-science-behind-forecasting-whats-next"
+    },
+    {
+        "title": "The Great Unbundling: How Single-Function Gadgets Are Making a Comeback",
+        "excerpt": "Why specialized devices are gaining popularity in an era of smartphone convergence.",
+        "category": "Gadgets",
+        "tag": "Gadgets",
+        "readTime": "7 min",
+        "timestamp": "2024-05-19T15:10:00",
+        "image": "https://images.unsplash.com/photo-1546054451-5d0ec4d4435c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/great-unbundling-how-single-function-gadgets-making-comeback"
+    },
+    {
+        "title": "Gadget Fatigue: When More Features Become a Problem Instead of a Solution",
+        "excerpt": "Examining the psychological impact of feature overload and the rise of minimalist tech.",
+        "category": "Gadgets",
+        "tag": "Gadgets",
+        "readTime": "9 min",
+        "timestamp": "2024-10-23T12:25:00",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/gadget-fatigue-when-more-features-become-problem-instead-solution"
+    },
+    {
+        "title": "Serendipitous Discovery: How Accidents Lead to Major Technological Breakthroughs",
+        "excerpt": "The untold stories of how mistakes, oversights, and chance encounters created revolutionary technologies.",
+        "category": "Breakthrough",
+        "tag": "Breakthrough",
+        "readTime": "15 min",
+        "timestamp": "2024-06-28T14:50:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/serendipitous-discovery-how-accidents-lead-major-technological-breakthroughs"
+    },
+    {
+        "title": "Breakthrough Mathematics: The Unseen Formulas Powering Modern Technology",
+        "excerpt": "Exploring the complex mathematical discoveries that enabled everything from cryptography to machine learning.",
+        "category": "Breakthrough",
+        "tag": "Breakthrough",
+        "readTime": "13 min",
+        "timestamp": "2024-11-17T11:15:00",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/breakthrough-mathematics-unseen-formulas-powering-modern-technology"
+    },
+    {
+        "title": "The Unicorn Factory: What Makes Silicon Valley's Startup Ecosystem Unique",
+        "excerpt": "Analyzing the cultural, financial, and educational factors behind Silicon Valley's disproportionate success.",
+        "category": "Startups",
+        "tag": "Startups",
+        "readTime": "11 min",
+        "timestamp": "2024-07-14T10:40:00",
+        "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/unicorn-factory-what-makes-silicon-valleys-startup-ecosystem-unique"
+    },
+    {
+        "title": "Startup Pivots: When Changing Direction Saves or Dooms a Company",
+        "excerpt": "Case studies of successful and failed pivots, and the art of knowing when to change course.",
+        "category": "Startups",
+        "tag": "Startups",
+        "readTime": "10 min",
+        "timestamp": "2024-12-05T16:55:00",
+        "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/startup-pivots-when-changing-direction-saves-dooms-company"
+    },
+    {
+        "title": "The Quiet Revolution: How Incremental Changes Are Transforming Industries",
+        "excerpt": "While disruptive innovations get headlines, steady incremental improvements often create more lasting impact.",
+        "category": "Revolution",
+        "tag": "Revolution",
+        "readTime": "12 min",
+        "timestamp": "2024-08-09T13:20:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/quiet-revolution-how-incremental-changes-transforming-industries"
+    },
+    {
+        "title": "Technological Revolutions: What History Teaches Us About Adoption Curves",
+        "excerpt": "Analyzing patterns from electricity to the internet to predict how future revolutions will unfold.",
+        "category": "Revolution",
+        "tag": "Revolution",
+        "readTime": "14 min",
+        "timestamp": "2025-01-12T09:45:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/technological-revolutions-what-history-teaches-us-about-adoption-curves"
+    },
+    {
+        "title": "Smart Overload: When Connected Devices Create More Problems Than They Solve",
+        "excerpt": "The cognitive burden of managing dozens of smart devices and the quest for truly seamless integration.",
+        "category": "Smart",
+        "tag": "Smart",
+        "readTime": "8 min",
+        "timestamp": "2024-09-03T14:10:00",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/smart-overload-when-connected-devices-create-more-problems-than-solve"
+    },
+    {
+        "title": "The Intelligence Spectrum: From Dumb Devices to Truly Smart Systems",
+        "excerpt": "Defining what 'smart' really means in technology and how true intelligence differs from connectivity.",
+        "category": "Smart",
+        "tag": "Smart",
+        "readTime": "9 min",
+        "timestamp": "2025-02-18T12:35:00",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/intelligence-spectrum-dumb-devices-truly-smart-systems"
+    },
+    {
+        "title": "The Anticipatory Interface: Systems That Know What You Need Before You Do",
+        "excerpt": "Next-generation interfaces that combine context awareness, predictive AI, and seamless interaction.",
+        "category": "Next-Gen",
+        "tag": "Next-Gen",
+        "readTime": "13 min",
+        "timestamp": "2024-10-11T15:30:00",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/anticipatory-interface-systems-know-what-you-need-before-you-do"
+    },
+    {
+        "title": "Beyond Touch: The Next Generation of Human-Computer Interaction",
+        "excerpt": "Exploring voice, gesture, brain-computer interfaces, and other post-touchscreen interaction paradigms.",
+        "category": "Next-Gen",
+        "tag": "Next-Gen",
+        "readTime": "11 min",
+        "timestamp": "2025-03-25T10:50:00",
+        "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/beyond-touch-next-generation-human-computer-interaction"
+    },
+    {
+        "title": "Elegant Solutions: When Simplicity Solves Complex Problems Beautifully",
+        "excerpt": "Case studies of technologies that achieved remarkable results through minimalist, elegant design.",
+        "category": "Solutions",
+        "tag": "Solutions",
+        "readTime": "10 min",
+        "timestamp": "2024-11-07T14:15:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/elegant-solutions-when-simplicity-solves-complex-problems-beautifully"
+    },
+    {
+        "title": "Solution Finding vs Problem Finding: The Overlooked Skill in Tech Innovation",
+        "excerpt": "Why identifying the right problems is often more valuable than creating solutions for the wrong ones.",
+        "category": "Solutions",
+        "tag": "Solutions",
+        "readTime": "12 min",
+        "timestamp": "2025-04-14T16:40:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/solution-finding-vs-problem-finding-overlooked-skill-tech-innovation"
+    },
+    {
+        "title": "Creative Destruction 2.0: How Digital Disruption Differs from Industrial Disruption",
+        "excerpt": "Comparing Schumpeter's theory to modern tech disruption and its accelerated pace.",
+        "category": "Disruption",
+        "tag": "Disruption",
+        "readTime": "14 min",
+        "timestamp": "2024-12-19T11:25:00",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/creative-destruction-2-how-digital-disruption-differs-industrial-disruption"
+    },
+    {
+        "title": "The Disruption Dilemma: When Innovation Destroys More Value Than It Creates",
+        "excerpt": "Examining cases where technological disruption had significant negative societal consequences.",
+        "category": "Disruption",
+        "tag": "Disruption",
+        "readTime": "15 min",
+        "timestamp": "2025-05-09T13:55:00",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/disruption-dilemma-when-innovation-destroys-more-value-than-creates"
+    },
+    {
+        "title": "The Invisible Infrastructure: Emerging Technologies We Don't See That Power Everything",
+        "excerpt": "From undersea cables to data centers to satellite networks, the unseen backbone of modern tech.",
+        "category": "Emerging",
+        "tag": "Emerging",
+        "readTime": "13 min",
+        "timestamp": "2025-01-24T10:10:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/invisible-infrastructure-emerging-technologies-we-dont-see-power-everything"
+    },
+    {
+        "title": "The Adjacent Possible: Why Some Emerging Tech Succeeds While Others Stall",
+        "excerpt": "Understanding the technological prerequisites that determine which innovations take off and which don't.",
+        "category": "Emerging",
+        "tag": "Emerging",
+        "readTime": "11 min",
+        "timestamp": "2025-06-03T15:20:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/adjacent-possible-why-some-emerging-tech-succeeds-others-stall"
+    },
+    {
+        "title": "The Lone Pioneer vs The Research Lab: Different Paths to Technological Firsts",
+        "excerpt": "Comparing individual innovators against institutional research in breakthrough discoveries.",
+        "category": "Pioneering",
+        "tag": "Pioneering",
+        "readTime": "12 min",
+        "timestamp": "2025-02-14T14:45:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/lone-pioneer-vs-research-lab-different-paths-technological-firsts"
+    },
+    {
+        "title": "Pioneer's Paradox: Why First Movers Often Don't Win in Tech Markets",
+        "excerpt": "Examining why companies that create markets frequently lose to fast followers.",
+        "category": "Pioneering",
+        "tag": "Pioneering",
+        "readTime": "10 min",
+        "timestamp": "2025-07-01T12:30:00",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/pioneers-paradox-why-first-movers-often-dont-win-tech-markets"
+    },
+    {
+        "title": "Dual-Use Dilemma: When Defense Technologies Cross Over to Civilian Life",
+        "excerpt": "How military innovations like GPS and the internet transformed civilian society.",
+        "category": "Defence",
+        "tag": "Defence",
+        "readTime": "14 min",
+        "timestamp": "2025-03-08T09:15:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/dual-use-dilemma-when-defense-technologies-cross-over-civilian-life"
+    },
+    {
+        "title": "Cyber Defense: The Asymmetric Battlefield of Digital Security",
+        "excerpt": "How defense strategies are evolving to address cyber threats in an interconnected world.",
+        "category": "Defence",
+        "tag": "Defence",
+        "readTime": "16 min",
+        "timestamp": "2025-08-05T16:40:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/cyber-defense-asymmetric-battlefield-digital-security"
+    },
+    {
+        "title": "Progress Plateaus: Why Technological Advancement Isn't Always Exponential",
+        "excerpt": "Examining periods of stagnation in tech history and what they teach us about innovation cycles.",
+        "category": "Progress",
+        "tag": "Progress",
+        "readTime": "13 min",
+        "timestamp": "2025-04-18T13:25:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/progress-plateaus-why-technological-advancement-isnt-always-exponential"
+    },
+    {
+        "title": "Measuring Progress: Beyond GDP - New Metrics for Technological Advancement",
+        "excerpt": "Developing better ways to quantify technological progress and its societal impact.",
+        "category": "Progress",
+        "tag": "Progress",
+        "readTime": "11 min",
+        "timestamp": "2025-09-12T10:50:00",
+        "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/measuring-progress-beyond-gdp-new-metrics-technological-advancement"
+    },
+    {
+        "title": "Regulatory Lag: When Laws Can't Keep Pace with Technological Change",
+        "excerpt": "The challenges governments face regulating technologies that evolve faster than legislation.",
+        "category": "Policy",
+        "tag": "Policy",
+        "readTime": "15 min",
+        "timestamp": "2025-05-22T14:35:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/regulatory-lag-when-laws-cant-keep-pace-technological-change"
+    },
+    {
+        "title": "Tech Policy Sandboxes: Experimental Regulation for Emerging Technologies",
+        "excerpt": "How controlled regulatory environments help governments understand and regulate new tech safely.",
+        "category": "Policy",
+        "tag": "Policy",
+        "readTime": "12 min",
+        "timestamp": "2025-10-07T12:10:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/tech-policy-sandboxes-experimental-regulation-emerging-technologies"
+    },
+    {
+        "title": "Green Computing: Reducing the Environmental Cost of Our Digital Lives",
+        "excerpt": "Innovations in energy-efficient data centers, sustainable hardware, and eco-friendly software.",
+        "category": "Green Tech",
+        "tag": "Green Tech",
+        "readTime": "14 min",
+        "timestamp": "2025-06-14T11:45:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/green-computing-reducing-environmental-cost-our-digital-lives"
+    },
+    {
+        "title": "The Circular Electronics Economy: Designing for Repair, Reuse, and Recycling",
+        "excerpt": "How tech companies are moving from planned obsolescence to sustainable product lifecycles.",
+        "category": "Green Tech",
+        "tag": "Green Tech",
+        "readTime": "13 min",
+        "timestamp": "2025-11-03T15:20:00",
+        "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/circular-electronics-economy-designing-repair-reuse-recycling"
+    },
+    {
+        "title": "The 15-Minute Smart City: Technology's Role in Creating Hyper-Local Urban Living",
+        "excerpt": "How tech enables cities where all essential services are within a 15-minute walk or bike ride.",
+        "category": "Smart Cities",
+        "tag": "Smart Cities",
+        "readTime": "16 min",
+        "timestamp": "2025-07-08T10:30:00",
+        "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/15-minute-smart-city-technologys-role-creating-hyper-local-urban-living"
+    },
+    {
+        "title": "Urban Intelligence Platforms: The Operating Systems for Future Cities",
+        "excerpt": "How integrated data platforms are helping cities optimize everything from traffic to waste management.",
+        "category": "Smart Cities",
+        "tag": "Smart Cities",
+        "readTime": "15 min",
+        "timestamp": "2025-12-01T13:55:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/urban-intelligence-platforms-operating-systems-future-cities"
+    },
+    {
+        "title": "Digital Divide 2.0: Beyond Internet Access to Digital Literacy and Inclusion",
+        "excerpt": "The next frontier in tech accessibility focuses on skills, content, and meaningful participation.",
+        "category": "Tech Accessibility",
+        "tag": "Tech Accessibility",
+        "readTime": "14 min",
+        "timestamp": "2025-08-19T14:40:00",
+        "image": "https://images.unsplash.com/photo-1546054451-5d0ec4d4435c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/digital-divide-2-beyond-internet-access-digital-literacy-inclusion"
+    },
+    {
+        "title": "Assistive Tech Revolution: How Technology Is Empowering People with Disabilities",
+        "excerpt": "From AI-powered prosthetics to voice-controlled smart homes, tech is creating new possibilities.",
+        "category": "Tech Accessibility",
+        "tag": "Tech Accessibility",
+        "readTime": "12 min",
+        "timestamp": "2026-01-14T11:15:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/assistive-tech-revolution-how-technology-empowering-people-disabilities"
+    },
+    {
+        "title": "The Venture Capital Reset: How Tech Investment Strategies Are Evolving",
+        "excerpt": "Moving beyond growth-at-all-costs to sustainable, profitable business models.",
+        "category": "Tech Investment",
+        "tag": "Tech Investment",
+        "readTime": "13 min",
+        "timestamp": "2025-09-24T16:25:00",
+        "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/venture-capital-reset-how-tech-investment-strategies-evolving"
+    },
+    {
+        "title": "Retail Investors and Tech: How Crowdfunding and Fractional Investing Are Changing the Game",
+        "excerpt": "The democratization of tech investment and its implications for startups and markets.",
+        "category": "Tech Investment",
+        "tag": "Tech Investment",
+        "readTime": "11 min",
+        "timestamp": "2026-02-08T09:50:00",
+        "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/retail-investors-tech-how-crowdfunding-fractional-investing-changing-game"
+    },
+    {
+        "title": "Sci-Fi Becomes Reality: Technologies That Were Once Pure Fiction",
+        "excerpt": "From communicators to video calling, holograms to smart homes - how fiction inspired real innovation.",
+        "category": "Futuristic Devices",
+        "tag": "Futuristic Devices",
+        "readTime": "15 min",
+        "timestamp": "2025-10-16T13:10:00",
+        "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/sci-fi-becomes-reality-technologies-were-once-pure-fiction"
+    },
+    {
+        "title": "The Minimalist Future: When the Most Advanced Tech Becomes Invisible",
+        "excerpt": "How futuristic devices are disappearing into our environment and even our bodies.",
+        "category": "Futuristic Devices",
+        "tag": "Futuristic Devices",
+        "readTime": "12 min",
+        "timestamp": "2024-01-08T10:35:00",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/minimalist-future-when-most-advanced-tech-becomes-invisible"
+    },
+    {
+        "title": "Regenerative Tech: Systems That Don't Just Sustain But Actually Improve the Environment",
+        "excerpt": "Beyond reducing harm to actively healing ecosystems through technological intervention.",
+        "category": "Sustainable Tech",
+        "tag": "Sustainable Tech",
+        "readTime": "16 min",
+        "timestamp": "2025-11-11T14:50:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/regenerative-tech-systems-dont-just-sustain-actually-improve-environment"
+    },
+    {
+        "title": "The Sustainability ROI: How Green Tech Is Becoming Good Business",
+        "excerpt": "The economic case for sustainable technology beyond environmental responsibility.",
+        "category": "Sustainable Tech",
+        "tag": "Sustainable Tech",
+        "readTime": "13 min",
+        "timestamp": "2024-02-22T12:05:00",
+        "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/sustainability-roi-how-green-tech-becoming-good-business"
+    },
+    {
+        "title": "The Last Mile Problem: Innovative Solutions for Final-Stage Connectivity",
+        "excerpt": "From satellite internet to mesh networks, solving connectivity in remote and underserved areas.",
+        "category": "Connectivity Solutions",
+        "tag": "Connectivity Solutions",
+        "readTime": "14 min",
+        "timestamp": "2025-12-09T15:40:00",
+        "image": "https://images.unsplash.com/photo-1546054451-5d0ec4d4435c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/last-mile-problem-innovative-solutions-final-stage-connectivity"
+    },
+    {
+        "title": "Interoperability: The Holy Grail of Seamless Tech Connectivity",
+        "excerpt": "Why getting different systems to work together is both critical and incredibly challenging.",
+        "category": "Connectivity Solutions",
+        "tag": "Connectivity Solutions",
+        "readTime": "12 min",
+        "timestamp": "2024-03-14T11:20:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/interoperability-holy-grail-seamless-tech-connectivity"
+    },
+    {
+        "title": "The Human-Machine Collaboration: Industry 4.0's Focus on Augmentation, Not Replacement",
+        "excerpt": "How the latest industrial revolution emphasizes human-machine partnership over automation.",
+        "category": "Industry 4.0",
+        "tag": "Industry 4.0",
+        "readTime": "15 min",
+        "timestamp": "2026-01-18T13:55:00",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/human-machine-collaboration-industry-4-focus-augmentation-not-replacement"
+    },
+    {
+        "title": "Digital Twins in Manufacturing: Virtual Replicas That Optimize Real-World Production",
+        "excerpt": "How digital twins are revolutionizing predictive maintenance, quality control, and efficiency.",
+        "category": "Industry 4.0",
+        "tag": "Industry 4.0",
+        "readTime": "14 min",
+        "timestamp": "2024-04-09T10:10:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/digital-twins-manufacturing-virtual-replicas-optimize-real-world-production"
+    },
+    {
+        "title": "Digital Transformation Fatigue: When Organizations Get Overwhelmed by Change",
+        "excerpt": "Why many digital transformation initiatives fail and how to manage the human side of change.",
+        "category": "Digital Transformation",
+        "tag": "Digital Transformation",
+        "readTime": "13 min",
+        "timestamp": "2026-02-03T16:25:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/digital-transformation-fatigue-when-organizations-overwhelmed-change"
+    },
+    {
+        "title": "The Transformation Spectrum: Different Paths to Digital Maturity",
+        "excerpt": "How companies take different routes based on industry, size, and starting point.",
+        "category": "Digital Transformation",
+        "tag": "Digital Transformation",
+        "readTime": "12 min",
+        "timestamp": "2024-05-17T14:50:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/transformation-spectrum-different-paths-digital-maturity"
+    },
+    {
+        "title": "Tech Strategy in Uncertainty: Planning for Multiple Possible Futures",
+        "excerpt": "How successful tech leaders create flexible strategies that adapt to changing conditions.",
+        "category": "Tech Strategy",
+        "tag": "Tech Strategy",
+        "readTime": "14 min",
+        "timestamp": "2024-06-26T11:15:00",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/tech-strategy-uncertainty-planning-multiple-possible-futures"
+    },
+    {
+        "title": "The Platform vs Product Strategy: Choosing the Right Tech Business Model",
+        "excerpt": "Analyzing when companies should build platforms, products, or hybrid approaches.",
+        "category": "Tech Strategy",
+        "tag": "Tech Strategy",
+        "readTime": "13 min",
+        "timestamp": "2024-07-30T15:40:00",
+        "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/platform-vs-product-strategy-choosing-right-tech-business-model"
+    },
+    {
+        "title": "The Leapfrog Effect: How Emerging Markets Skip Legacy Technologies",
+        "excerpt": "From mobile banking to renewable energy, how developing countries bypass traditional infrastructure.",
+        "category": "Emerging Markets",
+        "tag": "Emerging Markets",
+        "readTime": "15 min",
+        "timestamp": "2024-08-28T12:05:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/leapfrog-effect-how-emerging-markets-skip-legacy-technologies"
+    },
+    {
+        "title": "Local Solutions for Global Problems: Innovation from Unexpected Places",
+        "excerpt": "How constraints in emerging markets foster creative technological solutions.",
+        "category": "Emerging Markets",
+        "tag": "Emerging Markets",
+        "readTime": "14 min",
+        "timestamp": "2024-09-25T13:30:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/local-solutions-global-problems-innovation-unexpected-places"
+    },
+    {
+        "title": "The Corporate Innovation Lab: Why Most Fail and How Some Succeed",
+        "excerpt": "Analyzing what separates productive innovation labs from disconnected R&D departments.",
+        "category": "Innovation Labs",
+        "tag": "Innovation Labs",
+        "readTime": "16 min",
+        "timestamp": "2024-10-31T14:55:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/corporate-innovation-lab-why-most-fail-how-some-succeed"
+    },
+    {
+        "title": "Open Innovation Labs: When Companies Collaborate with Competitors",
+        "excerpt": "How shared innovation spaces are solving industry-wide challenges.",
+        "category": "Innovation Labs",
+        "tag": "Innovation Labs",
+        "readTime": "12 min",
+        "timestamp": "2024-11-27T10:20:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/open-innovation-labs-when-companies-collaborate-competitors"
+    },
+    {
+        "title": "Design for Disassembly: The Next Frontier in Sustainable Product Design",
+        "excerpt": "Creating products that can be easily taken apart, repaired, and recycled.",
+        "category": "Product Design",
+        "tag": "Product Design",
+        "readTime": "13 min",
+        "timestamp": "2024-12-19T15:45:00",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/design-disassembly-next-frontier-sustainable-product-design"
+    },
+     {
+        "title": "Deesign for Disassembly: The Next Frontier in Sustainable Product Design",
+        "excerpt": "Creating products that can be easily taken apart, repaired, and recycled.",
+        "category": "Product Design",
+        "tag": "Product Design",
+        "readTime": "13 min",
+        "timestamp": "2024-12-19T15:45:00",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/design-disassembly-next-frontier-sustainable-product-design"
+    },
+    {
+        "title": "Emotional Design: Creating Tech Products That People Form Attachments To",
+        "excerpt": "How design influences our emotional connection to technology and brand loyalty.",
+        "category": "Product Design",
+        "tag": "Product Design",
+        "readTime": "11 min",
+        "timestamp": "2025-01-15T12:10:00",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/emotional-design-creating-tech-products-people-form-attachments"
+    },
+    {
+        "title": "Coopetition: When Tech Companies Collaborate While Competing",
+        "excerpt": "The complex relationships where companies work together on some projects while competing fiercely on others.",
+        "category": "Tech Collaboration",
+        "tag": "Tech Collaboration",
+        "readTime": "14 min",
+        "timestamp": "2025-02-22T14:35:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/coopetition-when-tech-companies-collaborate-while-competing"
+    },
+    {
+        "title": "The Consortium Model: Multiple Companies Solving Shared Technical Challenges",
+        "excerpt": "How industry consortia are tackling problems too big for any single company.",
+        "category": "Tech Collaboration",
+        "tag": "Tech Collaboration",
+        "readTime": "15 min",
+        "timestamp": "2025-03-19T11:00:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/consortium-model-multiple-companies-solving-shared-technical-challenges"
+    }
+]
